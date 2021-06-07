@@ -23,6 +23,7 @@ SGCN models the sparse graph in two views:
 <br />
 
 ### Sprarse Graph Learning
+<div align='center'>
 <img src="images/sparse_graph_learning.jpg"></img>
 </div>
 <br />
