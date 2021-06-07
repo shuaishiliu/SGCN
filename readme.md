@@ -16,12 +16,16 @@ SGCN models the sparse graph in two views:
 2) a Temprial Sparse Graph to represent diverse motion tendencies
 
 ### framework
-![1](images/sgcn.jpg)
+
+<div align='center'>
+<img src="images/sgcn.jpg"></img>
+</div>
+<br />
 
 ### Sprarse Graph Learning
-
-![2](images/sparse_graph_learning.jpg)
-
+<img src="images/sparse_graph_learning.jpg"></img>
+</div>
+<br />
 
 ## Train
 
