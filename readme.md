@@ -10,7 +10,7 @@ The code is trained and tested on RTX 2080Ti, Python 3.6.2, numpy 1.19.0, pytorc
 ## SGCN
 
 
-SGCN models the sparse graph in two views:
+SGCN models the sparse graph in two aspects:
 
 1) a Spatial Sparse Graph to represent sparse interaction
 2) a Temprial Sparse Graph to represent diverse motion tendencies
@@ -48,7 +48,7 @@ sh train.sh
 To evaluate your trained model or our pretrain model you can run:
 
 ```
-test.py
+python test.py
 
 ``` 
 
