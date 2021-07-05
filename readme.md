@@ -52,7 +52,7 @@ python test.py
 
 ``` 
 
-Note that the pretrain models lie in 'checkpoints'.
+Note that the pretrain model lies in 'checkpoints'.
 
 
 ## Download
