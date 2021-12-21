@@ -77,8 +77,3 @@ If you find this repo useful, please consider citing our paper
   year={2021}
 }
 ```
-
-
-## Reference
-
-The code base borrows from [Social-STGCNN](https://github.com/abduallahmohamed/Social-STGCNN)
