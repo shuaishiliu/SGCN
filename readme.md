@@ -3,6 +3,9 @@ Code for SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Predict
 
 [Paper](https://arxiv.org/pdf/2104.01528.pdf)
 
+# Important Notice
+The code will be pulled off shelves and upated to add more information, such as more detailed training process, a new proposed method for multimodal trajectory prediction, in our extensive journal version.
+
 ## Environment
 
 The code is trained and tested on RTX 2080Ti, Python 3.6.2, numpy 1.19.0, pytorch 1.2.0 and CUDA11.2.
